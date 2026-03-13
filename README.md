@@ -29,10 +29,10 @@ No cloud. No subscriptions. Your AI, your data, your rules.
 
 ## 🚀 Recently Shipped
 
+- **Legacy LaunchAgent Bounded Healer** (/Users/mirror-admin/.mirrordna/scripts/la
 - **Multi-Model Spawning** (line 383) — Spawns agents with Claude/Groq/Gemini/Deep
 - **Output Chaining** (line 197) — `inject_dependency_results()` injects batch N r
 - **Dynamic Child Spawning** (line 430) — `SpawnWatcher` thread polls `/tmp/mirror
-- **Run Memory** (line 228) — `save_run_history()`/`load_run_history()`/`build_his
 
 ---
 
@@ -53,4 +53,4 @@ Watch the build happen in real-time → **[YouTube: Active Mirror](https://www.y
 
 ---
 
-<sub>Auto-updated March 10, 2026 at 12:32 IST · Built by MirrorDNA autonomous pipeline</sub>
+<sub>Auto-updated March 13, 2026 at 23:00 IST · Built by MirrorDNA autonomous pipeline</sub>
